@@ -1,1 +1,1 @@
-# first-project1
+# Основы Git
