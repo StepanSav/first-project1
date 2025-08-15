@@ -14,3 +14,4 @@ git config --global user.name "Tara Routray"
 ```
 git config --global user.email "dev@tararoutray.com"
 ```  
+2. Кэширование учётных данных
