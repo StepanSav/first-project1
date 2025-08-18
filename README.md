@@ -19,3 +19,6 @@ git config --global user.email "dev@tararoutray.com"
 ```
 git config --global credential.helper cache
 ```  
+**3. Инициализация репозитория**  
+
+Создать пустой репозиторий Git или вновь инициализировать существующий можно параметром init. При инициализации он создаст 
