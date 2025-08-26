@@ -26,3 +26,5 @@ git config --global credential.helper cache
 ```
 git init
 ```
+**4. Добавление отдельных файлов или всех файлов в область подготовленных файлов**  
+
